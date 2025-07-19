@@ -50,5 +50,5 @@ This dashboard delivers significant business value by:
 * **Optimizing Operations:** Understanding payment mode preferences can help optimize payment gateway integrations and customer checkout experiences.
 * **Improving Profitability:** The 'Profit by Sub-Category' section allows for strategic decisions on product assortment and pricing to maximize overall profit.
 ***
-[!alt image](https://github.com/ms-vishwas/Sales-Performance-Dashboard/blob/main/Datasets/Dashboard.png)
+![alt image](https://github.com/ms-vishwas/Sales-Performance-Dashboard/blob/main/Datasets/Dashboard.png)
 
