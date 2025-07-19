@@ -49,5 +49,6 @@ This dashboard delivers significant business value by:
 * **Pinpointing Areas for Improvement:** Low-performing months or sub-categories can be quickly identified (e.g., negative profit in July), prompting further investigation and strategic adjustments.
 * **Optimizing Operations:** Understanding payment mode preferences can help optimize payment gateway integrations and customer checkout experiences.
 * **Improving Profitability:** The 'Profit by Sub-Category' section allows for strategic decisions on product assortment and pricing to maximize overall profit.
-
+***
+[!alt image](https://github.com/ms-vishwas/Sales-Performance-Dashboard/blob/main/Datasets/Dashboard.png)
 
